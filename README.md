@@ -1,8 +1,8 @@
 # Ava Aware API Crystal Wrapper
 
-Crystal wrapper for Ava Aware API
+Crystal wrapper for Ava Aware's API
 
-https://emerconghaile.github.io/ava.cr/
+Crysal documentation: https://emerconghaile.github.io/ava.cr/
 
 ## Installation
 
