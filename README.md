@@ -1,4 +1,4 @@
-# ava
+# Ava Aware API Crystal Wrapper
 
 Crystal wrapper for Ava Aware API
 
