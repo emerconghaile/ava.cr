@@ -39,4 +39,4 @@ TODO: Write development instructions here
 ## Contributors
 
 - [Emer Conghaile](https://github.com/emerconghaile) - creator and maintainer
-- [Alex Piechowski](https://github.com/grepsedawk) - legend
+- [Alex Piechowski](https://github.com/grepsedawk) - absolute legend
