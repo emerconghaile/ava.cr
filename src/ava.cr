@@ -2,5 +2,7 @@
 module Ava
   VERSION = "0.1.0"
 
-  # TODO: Put your code here
+    Habitat.create do
+      setting base_url : String
+    end
 end
