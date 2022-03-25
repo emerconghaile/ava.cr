@@ -1,6 +1,8 @@
 # ava
 
-TODO: Write a description here
+Crystal wrapper for Ava Aware API
+
+https://emerconghaile.github.io/ava.cr/
 
 ## Installation
 
