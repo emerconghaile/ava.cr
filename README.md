@@ -25,7 +25,7 @@ A client API for Ava Aware written in Crystal.
    ```crystal
    # config/ava.cr
    Ava.configure do |config|
-     config.base_url = "https://example.com" # url provided to you by ava
+     config.base_url = "https://example.aware.avasecurity.com" # url provided to you by ava
      config.username = "ava-username"
      config.password = "ava-password
    end
