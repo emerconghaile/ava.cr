@@ -2,8 +2,6 @@
 
 A client API for Ava Aware written in Crystal
 
-Documentation: https://emerconghaile.github.io/ava.cr/
-
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
