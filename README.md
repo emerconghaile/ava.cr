@@ -1,6 +1,6 @@
-# Ava Aware API Crystal Wrapper
+# Ava Aware Crystal Client API
 
-Crystal wrapper for Ava Aware's API
+A client API for Ava Aware written in Crystal
 
 Crysal documentation: https://emerconghaile.github.io/ava.cr/
 
