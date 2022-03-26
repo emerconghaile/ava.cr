@@ -2,7 +2,7 @@
 
 A client API for Ava Aware written in Crystal
 
-Shard: https://emerconghaile.github.io/ava.cr/
+Documentation: https://emerconghaile.github.io/ava.cr/
 
 ## Installation
 
