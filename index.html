@@ -109,8 +109,23 @@
     <use href="#octicon-link"/>
   </svg>
 </a>Usage</h2>
-<pre><code class="language-crystal"><span class="k">require</span> <span class="s">&quot;ava&quot;</span></code></pre>
-<p><span class="flag orange">TODO</span>  Write usage instructions here</p>
+<ol>
+<li>Require <code>ava</code>:
+<pre><code class="language-crystal"><span class="c"># src/shards.cr</span>
+<span class="k">require</span> <span class="s">&quot;ava&quot;</span></code></pre>
+</li>
+<li>Configure Ava:
+<pre><code class="language-crystal"># config/ava.cr
+Ava.configure do |config|
+  config.base_url = &quot;https://example.aware.avasecurity.com&quot; # url provided to you by ava
+  config.username = &quot;ava-username&quot;
+  config.password = &quot;ava-password
+end
+
+</code></pre>
+</li>
+</ol>
+<p><span class="flag orange">TODO</span>  Auth and Actual Usage</p>
 <h2><a id="development" class="anchor" href="#development">
   <svg class="octicon-link" aria-hidden="true">
     <use href="#octicon-link"/>
