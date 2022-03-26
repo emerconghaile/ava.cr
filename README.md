@@ -1,4 +1,4 @@
-# Ava Aware Crystal Client API
+# Ava Aware Client API in Crystal
 
 A client API for Ava Aware written in Crystal.
 
