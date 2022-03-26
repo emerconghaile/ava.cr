@@ -1,6 +1,6 @@
 # Ava Aware Crystal Client API
 
-A client API for Ava Aware written in Crystal
+A client API for Ava Aware written in Crystal.
 
 ## Installation
 
